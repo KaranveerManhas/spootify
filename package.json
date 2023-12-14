@@ -1,0 +1,26 @@
+{
+  "name": "spootify",
+  "version": "1.0.0",
+  "description": "A Music Player App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaranveerManhas/spootify.git"
+  },
+  "keywords": [
+    "music",
+    "spotify"
+  ],
+  "author": "Karanveer Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaranveerManhas/spootify/issues"
+  },
+  "homepage": "https://github.com/KaranveerManhas/spootify#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
